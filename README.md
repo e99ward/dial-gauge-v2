@@ -12,3 +12,5 @@
 상기 작업의 역순으로 probe 궤적에 대한 정보가 있을 때 내접하는 도형을 구하는 코드
 
 - dial-polygon : 내부가 다각형 또는 비정형
+
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE1zUrbmi_zSku86WLqWyDzSWQDv6MX87B05a-0RczJ3OPWbjma6gkr35kOWnygpb7M7Nk7nQqvxD0SuY5mBtF9ehOMg_rtaajejn7ew5DPHXtLqH7NtYiZ5sr79nl32Sjiq2uTr0r0yLQaXHPGFWHNQoJnzsCHbIebAgkdCMYDnckMoLgMPwXbHR80P88/w640-h362/Screenshot%202026-04-17%20at%2011.42.30%E2%80%AFPM.png">
